@@ -12,7 +12,7 @@ int main ()
 	{
 		if (  (i%2) ==  0 )//nombre paire si divisible par 2
 		{
-			printf("%d	", i )  ;//affichage avec espacement
+			printf("%d\t", i )  ;//affichage avec espacement
 		}
 	}
 	printf("\n");//Amelioration de l' affichage
